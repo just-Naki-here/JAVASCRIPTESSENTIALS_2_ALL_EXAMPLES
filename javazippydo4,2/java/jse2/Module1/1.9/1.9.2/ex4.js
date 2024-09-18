@@ -1,0 +1,1 @@
+let createPoint  = (x, y) => ({x, y});

@@ -1,0 +1,1 @@
+console.log(coloredPoint.constructor.name);

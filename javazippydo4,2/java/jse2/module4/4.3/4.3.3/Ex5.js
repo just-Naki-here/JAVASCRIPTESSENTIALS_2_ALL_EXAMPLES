@@ -1,0 +1,1 @@
+request.open('GET', `http://localhost:3000/json?value=${value}`);

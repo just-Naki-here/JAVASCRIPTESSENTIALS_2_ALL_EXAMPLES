@@ -1,0 +1,1 @@
+Circle.prototype.hi = function(){console.log("Hi!")};
